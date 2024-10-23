@@ -28,10 +28,23 @@ Aplikasi ini dapat terintegrasi dengan sistem manajemen sekolah untuk meningkatk
 
 ## Instalasi
 
-1. **Clone atau Download Source Code**
+- **Clone atau Download Source Code**
    ```bash
    git clone https://github.com/Nyno1/pengaduan.git
    ```
-2. **buat database**
-3. **import ke file `database.sql` kalian**
-4. 
+- **buat database**
+- **jalankan `php artisan serve` di cmd**
+- **Buka table plus dan cari `database.sqlita` lalu buka**
+
+## Level pengguna
+1. Administrator
+2. Guru
+3. Siswa
+
+## Fitur Aplikasi
+
+- lapor siswa
+- melhat siswa
+- dan mengeadit status
+
+## Follow [Instagram](https://www.instagram.com/nynxd__/?next=%2F) Gw Ngab 
