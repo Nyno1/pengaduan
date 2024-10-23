@@ -22,7 +22,7 @@ Aplikasi Pengaduan Siswa ini dirancang untuk mempermudah siswa dalam menyampaika
 ## Integrasi
 Aplikasi ini dapat terintegrasi dengan sistem manajemen sekolah untuk meningkatkan komunikasi antara siswa dan pihak sekolah.
 
-## Prasyarat
+## server
 - Web Server dengan PHP (disarankan versi 8.3.10)
 - Database sqlite
 
@@ -31,3 +31,7 @@ Aplikasi ini dapat terintegrasi dengan sistem manajemen sekolah untuk meningkatk
 1. **Clone atau Download Source Code**
    ```bash
    git clone https://github.com/Nyno1/pengaduan.git
+   ```
+2. **buat database**
+3. **import ke file `database.sql` kalian**
+4. 
