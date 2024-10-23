@@ -7,8 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Cara Menggunakan Laravel
+# Aplikasi Pengaduan Siswa
 
-1. Awal-awal Kita Tulis "laravel new nama_file_kalian" Di Cmd Kemudian Pilih Breeze Lalu Resource
-2. Kemudian Jika Sudah Lakukan "cd nama_file_kalian" lalu "php artisan serve" dan "npm run dev"
-3. lalu buka link yang php artisan serve lalu kalian tinggal edit ez parah cik
+Aplikasi Pengaduan Siswa ini dirancang untuk mempermudah siswa dalam menyampaikan pengaduan terkait masalah di sekolah. Aplikasi ini menyediakan platform yang terintegrasi untuk pengelolaan pengaduan secara efisien.
+
+## Fitur Utama
+- Pendaftaran pengguna (siswa)
+- Pengajuan pengaduan
+- Review dan status pengaduan
+- Tanggapan dari pihak sekolah
+- Riwayat pengaduan
+- Pencarian dan filter pengaduan
+
+## Integrasi
+Aplikasi ini dapat terintegrasi dengan sistem manajemen sekolah untuk meningkatkan komunikasi antara siswa dan pihak sekolah.
+
+## Prasyarat
+- Web Server dengan PHP (disarankan versi 8.3.10)
+- Database sqlite
+
+## Instalasi
+
+1. **Clone atau Download Source Code**
+   ```bash
+   git clone https://github.com/Nyno1/pengaduan.git
